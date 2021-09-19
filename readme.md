@@ -30,3 +30,9 @@ It will ultimately be hosted on Heroku.
 - cors
 - node-fetch v2.0.0
 - dotenv
+
+---
+
+## Next Steps
+
+[Write tests with mock Fetch requests](https://www.leighhalliday.com/mock-fetch-jest)
